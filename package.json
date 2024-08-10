@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
   "name": "@example/minimal",
   "type": "module",
@@ -17,3 +18,24 @@
     "preact": "^10.11.3"
   }
 }
+=======
+{
+  "name": "@example/minimal",
+  "type": "module",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/preact": "^3.0.0",
+    "@astrojs/rss": "^3.0.0",
+    "astro": "^3.1.1",
+    "preact": "^10.11.3"
+  }
+}
+>>>>>>> 5744013201d5f991d4fe89c3715b0b7128130093

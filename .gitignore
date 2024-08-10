@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # build output
 dist/
 
@@ -20,3 +21,27 @@ pnpm-debug.log*
 
 # generated types
 .astro/
+=======
+# build output
+dist/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# generated types
+.astro/
+>>>>>>> 5744013201d5f991d4fe89c3715b0b7128130093
