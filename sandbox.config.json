@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 {
   "infiniteLoopProtection": true,
   "hardReloadOnChange": false,
@@ -10,16 +10,3 @@
     "node": "14"
   }
 }
-=======
-{
-  "infiniteLoopProtection": true,
-  "hardReloadOnChange": false,
-  "view": "browser",
-  "template": "node",
-  "container": {
-    "port": 3000,
-    "startScript": "start",
-    "node": "14"
-  }
-}
->>>>>>> 5744013201d5f991d4fe89c3715b0b7128130093

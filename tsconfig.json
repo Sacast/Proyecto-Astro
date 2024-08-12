@@ -1,9 +1,4 @@
-<<<<<<< HEAD
+
 {
   "extends": "astro/tsconfigs/base"
 }
-=======
-{
-  "extends": "astro/tsconfigs/base"
-}
->>>>>>> 5744013201d5f991d4fe89c3715b0b7128130093
